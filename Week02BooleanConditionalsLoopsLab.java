@@ -2,10 +2,10 @@ package week02;
 import java.util.*;
 
 public class Week02BooleanConditionalsLoopsLab {
-	// making some changes
+	//  just making some changes
 	
 	public static void main(String[] args) {
-		//System.out.println("Second week lab");
+		System.out.println("Second week lab");
 		//
 		// BOOLEANS and CONDITIONALS:
 		//
